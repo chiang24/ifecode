@@ -22,11 +22,9 @@ body{
     background-color:#fff;
     float: right;
 }
-.photo{
-  padding: 20px 20px 0 20px;
-}
-#last{
-    padding:20px;
+.right img{
+    margin: 20px;
+    display: block;
 }
 .center{
     background-color:#fff;
