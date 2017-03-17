@@ -1,0 +1,36 @@
+body{
+    width: auto;
+}
+.main{
+    padding:20px;
+    background-color: #eee;
+    border: 1px solid #999;
+    overflow:hidden;
+}
+.left{
+    float: left;
+    width: 200px;
+    padding: 10px;
+    background-color:#fff;
+}
+.left p{
+ float: right;
+ padding:0px 20px;
+}
+.right{
+    width: 120px;
+    background-color:#fff;
+    float: right;
+}
+.photo{
+  padding: 20px 20px 0 20px;
+}
+#last{
+    padding:20px;
+}
+.center{
+    background-color:#fff;
+    width:auto;
+    margin: 0px 140px 0px 240px;
+    padding: 15px;
+}
