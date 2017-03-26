@@ -1,0 +1,30 @@
+.wrapper{
+    width: 400px;
+    height: 200px;
+    background: #ccc;
+    position: absolute;
+    /*垂直居中*/
+    top:50%;
+    margin-top: -100px; 
+    /*水平居中*/
+    left: 50%;
+    margin-left: -200px;
+    overflow: hidden;
+}
+.circle1{
+    width: 100px;
+    height: 100px;
+    background: #fc0;
+    margin-top:-50px;
+    margin-left:-50px;  /*左上角定位*/
+    border-radius: 50%;
+}
+.circle2{
+    width: 100px;
+    height: 100px;
+    background: #fc0;
+    position: absolute;
+    bottom: -50px;
+    right: -50px;  /*右下角定位*/
+    border-radius: 50%;
+}
